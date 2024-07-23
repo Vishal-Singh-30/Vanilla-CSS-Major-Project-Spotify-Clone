@@ -8,6 +8,9 @@ Certainly! Here's an advanced version of the README file with technical terms an
 
 This project is a front-end replica of the Spotify web player, meticulously crafted using modern web technologies. The application is designed to emulate the core functionalities and user interface of the Spotify web player, including navigation, library management, and music playback controls.
 
+![Project Picture](./project%20pic%201.png)
+![Project Picture](./project%20pic%202.png)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
