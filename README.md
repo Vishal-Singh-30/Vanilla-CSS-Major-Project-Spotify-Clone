@@ -107,9 +107,6 @@ We welcome contributions from the community. To contribute, please follow these 
 6. **Open a Pull Request**:
    Provide a detailed description of your changes and any relevant information.
 
-## License
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
 
 ---
 
