@@ -2,6 +2,9 @@
 
 Certainly! Here's an advanced version of the README file with technical terms and professional language:
 
+## LIVE link
+**https://spotify-by-vs.netlify.app/**
+
 ---
 
 # Spotify Clone
